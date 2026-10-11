@@ -1,0 +1,6 @@
+TEST001;Alice Example;1 Test Street, Limassol;00000001;alice@example.com;TESTCARD0001;L001;120
+TEST002;Bob Example;2 Demo Avenue, Paphos;00000002;bob@example.com;TESTCARD0002;L002;80
+TEST003;Charlie Example;3 Sample Road, Nicosia;00000003;charlie@example.com;TESTCARD0003;L003;40
+TEST004;Diana Example;4 Mock Lane, Larnaca;00000004;diana@example.com;TESTCARD0004;L004;200
+TEST005;Evan Example;5 Placeholder Street, Famagusta;00000005;evan@example.com;TESTCARD0005;L005;110
+TEST006;Fiona Example;6 Testing Boulevard, Limassol;00000006;fiona@example.com;TESTCARD0006;L006;300

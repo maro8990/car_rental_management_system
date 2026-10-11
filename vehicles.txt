@@ -1,0 +1,8 @@
+EconomyCar;KPA123;Toyota;Yaris;2022;5
+EconomyCar;LAR234;Hyundai;i20;2021;4
+SUV;LEM345;Nissan;Qashqai;2023;5
+SUV;PAF456;Kia;Sorento;2020;7
+Convertible;NIC567;Mazda;MX-5;2022;2
+Convertible;LIM678;BMW;Z4;2021;2
+LuxuryCar;AML789;Mercedes;E-Class;2023;5
+LuxuryCar;PFO890;Audi;A6;2022;5
